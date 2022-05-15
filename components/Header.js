@@ -2,7 +2,7 @@ import React from 'react'
 
 function Header() {
   return (
-    <div className='flex justify-between items-center mx-40 h-[100px] border border-[#E0DFDD] border-b-black'>
+    <div className='flex justify-between items-center mx-5 sm:mx-40 h-[100px] border border-[#E0DFDD] border-b-black'>
         <div>
             <h2 className='text-4xl font-semibold'>Freedom</h2>
         </div>
